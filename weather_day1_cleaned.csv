@@ -1,0 +1,21 @@
+city,temperature,humidity,timestamp,data_quality
+Pretoria,24.4,32,2026-06-18 20:56:32,complete
+Cape Town,20.4,30,2026-06-18 00:00:00,complete
+Bloemfontein,18.1,22,2026-06-18 20:56:32,complete
+Durban,14.2,32,2026-06-18 20:56:32,complete
+Johannesburg,19.0,22,2026-06-18 20:56:32,complete
+Cape Town,NULL,88,2026-06-18 20:56:32,partial
+Durban,31.0,42,2026-06-18 20:56:32,complete
+Bloemfontein,26.6,84,2026-06-18 20:56:32,complete
+Cape Town,10.6,78,2026-06-18 20:56:32,complete
+Cape Town,33.5,21,2026-06-18 20:56:32,complete
+Johannesburg,26.5,NULL,2026-06-18 20:56:32,partial
+Pretoria,30.9,NULL,2026-06-18 20:56:32,partial
+Pretoria,16.8,NULL,2026-06-18 20:56:32,partial
+Durban,16.2,73,2026-06-18 20:56:32,complete
+Durban,NULL,42,2026-06-18 20:56:32,partial
+Durban,23.7,48,2026-06-18 20:56:32,complete
+Bloemfontein,NULL,NULL,2026-06-18 20:56:32,partial
+Johannesburg,19.8,20,2026-06-18 20:56:32,complete
+Johannesburg,NULL,95,2026-06-18 20:56:32,partial
+Bloemfontein,NULL,33,2026-06-18 20:56:32,partial

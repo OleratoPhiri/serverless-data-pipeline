@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "otp-raw-weather-data"
+        },
+        "object": {
+          "key": "weather_day1.csv"
+        }
+      }
+    }
+  ]
+}

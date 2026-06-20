@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"message\": \"Pipeline complete\", \"stats\": {\"total_rows\": 20, \"cleaned_rows\": 20, \"skipped_rows\": 0, \"files_processed\": 1}}"}
